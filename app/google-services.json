@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "583256479568",
+    "project_id": "tugas-pmob1",
+    "storage_bucket": "tugas-pmob1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583256479568:android:a54c4cbd3dc04f03117e55",
+        "android_client_info": {
+          "package_name": "id.utbandung.crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZngYdFm7nKM7pP1-Kgsiq67gS4eXxF_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583256479568:android:5969fe9f5d72f8e8117e55",
+        "android_client_info": {
+          "package_name": "id.utbandung.firebase_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZngYdFm7nKM7pP1-Kgsiq67gS4eXxF_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

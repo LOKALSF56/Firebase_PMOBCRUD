@@ -29,7 +29,6 @@
             android:layout_margin="8dp"
             android:layout_height="50dp"
             android:id="@+id/ImageView"
-            android:ContentDescription="Gambar Yang Dipilih"
             android:background="#E0E0E0"/>
         <Button
             android:layout_width="match_parent"
